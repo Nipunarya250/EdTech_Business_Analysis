@@ -1,4 +1,4 @@
-# EdTech BUSINESS Analysis
+# EdTech Business Analysis
 
 SQL analysis of a real-world masked EdTech dataset covering revenue trends, course performance, teacher metrics, and lead-to-enrollment conversion funnel.
 
