@@ -70,7 +70,11 @@ A masked dataset from an EdTech organization operating in the JEE/NEET segment. 
 - Dataset is masked — organization name and individual identifiers have been removed
 
 ---
+## Related Projects
 
+- [EdTech Business Analysis — Excel](https://github.com/Nipunarya250/EdTech-Business-Analysis-Excel)
+
+---
 ## Tools Used
 
 - MySQL 8.0
